@@ -46,6 +46,7 @@ pub const ARCHITECT: Profile = Profile {
   <img src="./assets/catalonia.svg" width="16" height="11" alt="Catalonia" style="vertical-align: middle; border-radius: 1px;" /> Catalonia
 </div>
 
+  </td>
   </tr>
 </table>
 
