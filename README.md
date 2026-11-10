@@ -40,15 +40,14 @@ pub const ARCHITECT: Profile = Profile {
 ```
 
 <div align="left" style="margin-top: 6px;">
-  <b>root/</b> &nbsp;
+  root/ &nbsp;
   🇩🇪 Germany &nbsp;·&nbsp;
   🇨🇦 Canada &nbsp;·&nbsp;
   <img src="./assets/catalonia.svg" width="16" height="11" alt="Catalonia" style="vertical-align: middle; border-radius: 1px;" /> Catalonia
 
   <br/>
-  <b>connect/</b> &nbsp;
-  <a href="https://linkedin.com/in/mteyra"><code>linkedin</code></a> &nbsp;·&nbsp;
   <a href="https://x.com/<your_handle>"><code>x</code></a>
+  <a href="https://linkedin.com/in/mteyra"><code>linkedin</code></a> &nbsp;·&nbsp;
 </div>
 </table>
 
