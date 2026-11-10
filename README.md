@@ -40,7 +40,7 @@ pub const ARCHITECT: Profile = Profile {
 ```
 
 <div align="left" style="margin-top: 6px;">
-  <b>Root/</b> &nbsp;
+  <b>root/</b> &nbsp;
   🇩🇪 Germany &nbsp;·&nbsp;
   🇨🇦 Canada &nbsp;·&nbsp;
   <img src="./assets/catalonia.svg" width="16" height="11" alt="Catalonia" style="vertical-align: middle; border-radius: 1px;" /> Catalonia
