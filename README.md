@@ -85,4 +85,4 @@ pub const ARCHITECT: Profile = Profile {
 ### 🏆 Hackathons & Field Notes
 
 - 🥈 **2nd Place — Orangensaft Hackabot (Apr 2026)**: Designed a real-time computer-vision hand-gesture state machine (`MediaPipe` + `OpenCV` fist-to-open snap and palm-shoo detection) paired with an asynchronous voice-control thread to command a mobile robot at 60 FPS without loop latency.
-- 🗺️ **Overland Travel Atlas**: Topographic journey mapping and travel notes across the Baltics, Balkans, and alpine routes (*6M.2024: Baltics, Balkans & Back*).
+- td.
