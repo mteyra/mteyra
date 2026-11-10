@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Marc Teyra Galiano</h2>
-  <p><b>Agentic Architect</b> · Designing systems, orchestrating autonomous AI to bring them to life.</p>
+  <p><b>Agentic Architect</b> · Designing systems, and orchestrating autonomous AI to bring them to life.</p>
 </div>
 
 <br/>
@@ -20,15 +20,15 @@
 ```rust
 pub const ARCHITECT: Profile = Profile {
     role:        "Agentic Architect",
+    system:      "NixOS 26.11 · CachyOS BORE (hyper-optimized)",
     focus:       "Autonomous Agent Operations & Declarative Systems",
     studies:     "B.Sc. Artificial Intelligence for Biomedical Engineering",
     origin:      &[ "48°N · Bavaria", "41°N · Catalunya", "49°N · Cascadia" ],
-    system:      "NixOS 26.11 · CachyOS BORE (hyper-optimized)",
     builds: &[
         "NixCare           — Autonomous NixOS health & telemetry",
         "Wortschatz        — Offline live contextual language tools",
-        "Agentic Secretary — Autonomous personal workflow synthesis",
         "NixOS Config      — Flake architecture for mobile workstations",
+        "Agentic Secretary — Autonomous personal workflow synthesis and guidance",
     ],
     interests: &[
         "Biomedical AI & Neural Systems",
@@ -45,7 +45,6 @@ pub const ARCHITECT: Profile = Profile {
   <img src="./assets/catalonia.svg" width="16" height="11" alt="Catalonia" style="vertical-align: middle; border-radius: 1px;" /> Catalonia
 </div>
 
-    </td>
   </tr>
 </table>
 
