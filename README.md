@@ -23,14 +23,12 @@ pub const ARCHITECT: Profile = Profile {
     system:      "NixOS 26.11 · CachyOS BORE (hyper-optimized)",
     focus:       "Autonomous Agent Operations & Declarative Systems",
     studies:     "B.Sc. Artificial Intelligence for Biomedical Engineering",
-    
     projects: &[
         "NixCare           — Autonomous NixOS health & telemetry",
         "Wortschatz        — Offline live contextual language tools",
         "NixOS Config      — Flake architecture for mobile workstations",
         "Agentic Secretary — Autonomous personal workflow synthesis and guidance",
     ],
-
     extracurriculars: &[
         "Biomedical AI & Neural Systems",
         "Autonomous Robotics & Real-time Vision",
