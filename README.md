@@ -39,18 +39,18 @@ pub const ARCHITECT: Profile = Profile {
 };
 ```
 
-<div align="left" style="margin-top: 6px; line-height: 1.6;">
+
+<div align="left" style="margin-top: 6px;">
   root/ &nbsp;
   🇩🇪 Germany &nbsp;·&nbsp;
   🇨🇦 Canada &nbsp;·&nbsp;
   <img src="./assets/catalonia.svg" width="16" height="11" alt="Catalonia" style="vertical-align: middle; border-radius: 1px;" /> Catalonia
+
   <br/>
-  link/ &nbsp;
-  <a href="https://x.com/Haunted_MTG"><code>x/@Haunted_MTG</code></a> &nbsp;·&nbsp;
+  <a href="https://x.com/Haunted_MTG"><code>  x/@Haunted_MTG</code></a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/mteyra"><code>in/mteyra</code></a> &nbsp;·&nbsp;
   <a href="https://mteyra.github.io/m.a.r.c_t.e.y.r.a/"><code>homepage</code></a>
 </div>
-
     </td>
   </tr>
 </table>
