@@ -46,7 +46,7 @@ pub const ARCHITECT: Profile = Profile {
   <img src="./assets/catalonia.svg" width="16" height="11" alt="Catalonia" style="vertical-align: middle; border-radius: 1px;" /> Catalonia
 
   <br/>
-  <a href="https://x.com/Haunted_MTG"><code>   x/@Haunted_MTG</code></a> &nbsp;·&nbsp;
+  <a href="https://x.com/Haunted_MTG"><code>  x/@Haunted_MTG</code></a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/mteyra"><code>in/mteyra</code></a> &nbsp;·&nbsp;
 </div>
 </table>
