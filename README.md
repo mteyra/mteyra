@@ -19,21 +19,22 @@
 
 ```rust
 pub const ARCHITECT: Profile = Profile {
-    role:        "Agentic Architect",
+    role:        "Ideator",
     system:      "NixOS 26.11 · CachyOS BORE (hyper-optimized)",
     focus:       "Autonomous Agent Operations & Declarative Systems",
     studies:     "B.Sc. Artificial Intelligence for Biomedical Engineering",
-    origin:      &[ "48°N · Bavaria", "41°N · Catalunya", "49°N · Cascadia" ],
-    builds: &[
+    
+    projects: &[
         "NixCare           — Autonomous NixOS health & telemetry",
         "Wortschatz        — Offline live contextual language tools",
         "NixOS Config      — Flake architecture for mobile workstations",
         "Agentic Secretary — Autonomous personal workflow synthesis and guidance",
     ],
-    interests: &[
+
+    extracurriculars: &[
         "Biomedical AI & Neural Systems",
         "Autonomous Robotics & Real-time Vision",
-        "Overland Alpine Expeditions (Baltics, Balkans & beyond)",
+        "chillin and livin life to the fullest extent (sometimes)",
     ],
 };
 ```
