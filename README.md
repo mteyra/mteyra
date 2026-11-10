@@ -49,7 +49,7 @@ pub const ARCHITECT: Profile = Profile {
   <br/>
   <a href="https://x.com/Haunted_MTG"><code>  x/@Haunted_MTG</code></a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/mteyra"><code>in/mteyra</code></a> &nbsp;·&nbsp;
-  <a href="https://mteyra.github.io/m.a.r.c_t.e.y.r.a/"><code>homepage</code></a>
+  <a href="https://mteyra.github.io/m.a.r.c_t.e.y.r.a/"><code>mteyra.github.io</code></a>
 </div>
     </td>
   </tr>
