@@ -50,7 +50,6 @@ pub const ARCHITECT: Profile = Profile {
   <a href="https://linkedin.com/in/mteyra"><code>linkedin</code></a> &nbsp;·&nbsp;
   <a href="https://x.com/<your_handle>"><code>x</code></a>
 </div>
-  </tr>
 </table>
 
 ---
