@@ -23,7 +23,6 @@ pub const ARCHITECT: Profile = Profile {
     system:      "NixOS 26.11 · CachyOS BORE (hyper-optimized)",
     focus:       "Autonomous Agent Operations & Declarative Systems",
     studies:     "B.Sc. Artificial Intelligence for Biomedical Engineering",
-    origin:      &[ "48°N · Bavaria", "41°N · Catalunya", "43°N · Toronto" ],
     
     projects: &[
         "NixCare           — Autonomous NixOS health & telemetry",
@@ -47,7 +46,6 @@ pub const ARCHITECT: Profile = Profile {
   <img src="./assets/catalonia.svg" width="16" height="11" alt="Catalonia" style="vertical-align: middle; border-radius: 1px;" /> Catalonia
 </div>
 
-    </td>
   </tr>
 </table>
 
