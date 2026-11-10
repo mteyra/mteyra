@@ -46,7 +46,11 @@ pub const ARCHITECT: Profile = Profile {
   <img src="./assets/catalonia.svg" width="16" height="11" alt="Catalonia" style="vertical-align: middle; border-radius: 1px;" /> Catalonia
 </div>
 
-    </td>
+    <div align="left" style="margin-top: 8px;">
+      <a href="https://linkedin.com/in/mteyra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+      &nbsp;
+      <a href="https://x.com/your_handle" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+    </div>
   </tr>
 </table>
 
