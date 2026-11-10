@@ -1,9 +1,6 @@
 <div align="center">
   <h2>Marc Teyra Galiano</h2>
-  <p>
-    <b>Agentic Architect</b> · Designing systems, orchestrating autonomous AI to bring them to life.<br/>
-    <sub>🇩🇪 DE &nbsp;·&nbsp; 🇨🇦 CA &nbsp;·&nbsp; <img src="./assets/catalonia.svg" width="16" height="11" alt="Catalonia" style="vertical-align: middle; border-radius: 1px;" /> CAT</sub>
-  </p>
+  <p><b>Agentic Architect</b> · Designing systems, orchestrating autonomous AI to bring them to life.</p>
 </div>
 
 <br/>
@@ -15,31 +12,38 @@
       <br/>
       <p align="center" style="margin-top: 8px;">
         <sub><b>0 · THE NOMAD</b></sub><br/>
-        <sub><i>"Navigates rugged terrain and complex systems with quiet curiosity, leaping where paths haven't yet been built."</i></sub>
+        <sub><i>"Learns enough of everything to navigate any system, build what’s missing, and move on before the dust settles."</i></sub>
       </p>
     </td>
     <td valign="top">
 
-```nix
-{
-  role = "Agentic Architect";
-  focus = "Autonomous Agent Operations & Declarative Systems";
-  studies = "B.Sc. Artificial Intelligence for Biomedical Engineering";
-  nomad = [ "Germany" "Canada" "Catalonia" ]; # [ "DE" "CA" "CAT" ]
-  system_as_of_now = "NixOS 26.11 · CachyOS BORE (hyper-optimized)";
-  active_builds = [
-    "NixCare           — Autonomous NixOS health & telemetry"
-    "Wortschatz        — Offline live contextual language tools"
-    "Agentic Secretary — Autonomous personal workflow synthesis"
-    "NixOS Config      — Flake architecture for mobile workstations"
-  ];
-  extracurricular = [
-    "Biomedical AI & Neural Systems"
-    "Autonomous Robotics & Real-time Vision"
-    "Overland Alpine Expeditions (Baltics, Balkans & beyond)"
-  ];
-}
+```rust
+pub const ARCHITECT: Profile = Profile {
+    role:        "Agentic Architect",
+    focus:       "Autonomous Agent Operations & Declarative Systems",
+    studies:     "B.Sc. Artificial Intelligence for Biomedical Engineering",
+    origin:      &[ "48°N · Bavaria", "41°N · Catalunya", "49°N · Cascadia" ],
+    system:      "NixOS 26.11 · CachyOS BORE (hyper-optimized)",
+    builds: &[
+        "NixCare           — Autonomous NixOS health & telemetry",
+        "Wortschatz        — Offline live contextual language tools",
+        "Agentic Secretary — Autonomous personal workflow synthesis",
+        "NixOS Config      — Flake architecture for mobile workstations",
+    ],
+    interests: &[
+        "Biomedical AI & Neural Systems",
+        "Autonomous Robotics & Real-time Vision",
+        "Overland Alpine Expeditions (Baltics, Balkans & beyond)",
+    ],
+};
 ```
+
+<div align="left" style="margin-top: 6px;">
+  <b>Roots:</b> &nbsp;
+  🇩🇪 Germany &nbsp;·&nbsp;
+  🇨🇦 Canada &nbsp;·&nbsp;
+  <img src="./assets/catalonia.svg" width="16" height="11" alt="Catalonia" style="vertical-align: middle; border-radius: 1px;" /> Catalonia
+</div>
 
     </td>
   </tr>
