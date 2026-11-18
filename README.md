@@ -49,7 +49,7 @@ pub const ARCHITECT: Profile = Profile {
   <br/>
   <a href="https://x.com/Haunted_MTG"><code>  x/@Haunted_MTG</code></a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/mteyra"><code>in/mteyra</code></a> &nbsp;·&nbsp;
-  <a href="https://mteyra.github.io/m.a.r.c_t.e.y.r.a/"><code>Marc-TG.github.io</code></a>
+  <a href="https://mteyra.github.io/homepage/"><code>mteyra.github.io/homepage</code></a>
 </div>
     </td>
   </tr>
@@ -77,6 +77,16 @@ pub const ARCHITECT: Profile = Profile {
       <td nowrap><b><a href="https://github.com/mteyra/nixos-config">nixos&#8209;config</a></b></td>
       <td>ThinkPad X1 Yoga Gen 3 flake — &lt;6W idle tuning, Wacom EC <code>_Q2A</code> S3 wakeup, 360° hinge daemon</td>
       <td nowrap align="center">🟢&nbsp;Live&nbsp;(MIT)</td>
+    </tr>
+    <tr>
+      <td nowrap><b><a href="https://github.com/mteyra/rommelweb">rommelweb</a></b></td>
+      <td>Interactive 3D map of the eleven student houses at Campus Süd, Erlangen: façades, floor plans and rooms in Three.js · <a href="https://mteyra.github.io/rommelweb/">open the map</a></td>
+      <td nowrap align="center">🟢&nbsp;Live&nbsp;(MIT)</td>
+    </tr>
+    <tr>
+      <td nowrap><b><a href="https://github.com/mteyra/group-games">group&#8209;games</a></b></td>
+      <td>72 captioned animated films that teach physical group games, with a printable field guide · <a href="https://mteyra.github.io/group-games/">watch them</a></td>
+      <td nowrap align="center">🟢&nbsp;Live&nbsp;(MIT&nbsp;·&nbsp;CC&nbsp;BY)</td>
     </tr>
     <tr>
       <td nowrap><b><a href="https://github.com/mteyra/emacs-german-filetype">wortschatz</a></b></td>
